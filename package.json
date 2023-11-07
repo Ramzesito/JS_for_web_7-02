@@ -1,0 +1,24 @@
+{
+  "name": "7-02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ramzesito/JS_for_web_7-02.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ramzesito/JS_for_web_7-02/issues"
+  },
+  "homepage": "https://github.com/Ramzesito/JS_for_web_7-02#readme",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^8.53.0",
+    "eslint-plugin-react": "^7.33.2",
+    "prettier": "^3.0.3"
+  }
+}
